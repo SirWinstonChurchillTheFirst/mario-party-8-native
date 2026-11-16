@@ -32,5 +32,5 @@
       "url": "https://ko-fi.com/krogger"
     }
   ],
-  "notes": "Reaches the Minigame Tent and Free Play Arcade. Known problems: the game runs at 50 Hz (judders on a 60 Hz display) and the pointer follows the remote very slowly. Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
+  "notes": "Reaches the Minigame Tent and Free Play Arcade; the pointer follows the remote at once. The European disc runs at 50 Hz, as on a real Wii (it has no 60 Hz mode). Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
 }
