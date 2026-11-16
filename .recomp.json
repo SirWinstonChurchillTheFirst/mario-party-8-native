@@ -32,5 +32,5 @@
       "url": "https://ko-fi.com/krogger"
     }
   ],
-  "notes": "Plays the intro and the title screen and asks to create a save file. The game switches the video to PAL 50 Hz and runs at its own 50 fps on both machines. Tested on Windows 11 (RTX 3070 Ti) and on a Linux mini PC (Ryzen 3 4350GE, Vega 6) with scripted inputs; nothing here says the game is playable to the end. Built with AI assistance (Claude)."
+  "notes": "Reaches the Minigame Tent and Free Play Arcade. Known problems: the game runs at 50 Hz (judders on a 60 Hz display) and the pointer follows the remote very slowly. Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
 }
